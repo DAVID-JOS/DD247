@@ -1,0 +1,11 @@
+{
+  "public": {
+    "TOKEN_NAME": "SkyCoin",
+    "TOKEN_SYMBOL": "SKD",
+    "TOKEN_VALUE": 2000
+  },
+  "private": {
+    "MONIEPOINT_API_KEY": "https://personal-api-dkta.onrender.com/",
+    "MONIEPOINT_SECRET": "8ab2369c1dd045f5b4e318b281d2a2fb_263ce2"
+  }
+}

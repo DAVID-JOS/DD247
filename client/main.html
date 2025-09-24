@@ -1,0 +1,16 @@
+<head>
+  <title>Mine App</title>
+</head>
+
+<body>
+  {{> body}}
+</body>
+
+<template name="body">
+  <h1>🚀 Welcome to Mine App (Meteor.js Only - No DB)</h1>
+  <div id="wallets">
+    {{#each wallets}}
+      <p>{{address}} - {{balance}}</p>
+    {{/each}}
+  </div>
+</template>

@@ -1,0 +1,7 @@
+{
+  "users": {},
+  "wallets": [
+    { "address": "0x123", "balance": 50 },
+    { "address": "0x456", "balance": 100 }
+  ]
+}
